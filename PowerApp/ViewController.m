@@ -13,30 +13,6 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    
-    /*
-    
-    _statusField = [[NSTextField alloc] initWithFrame:CGRectMake(5, 2, 216, 17)];
-    
-    _statusField.alignment = NSTextAlignmentCenter;
-    
-    _statusField.textColor = [NSColor redColor];
-    
-    _statusField.backgroundColor = [NSColor clearColor];
-    
-    [_statusField setFont:[NSFont systemFontOfSize:10]];
-    
-    _statusField.editable = false;
-    
-    _statusField.selectable = false;
-    
-    _statusField.bezeled = false;
-    
-    _statusField.drawsBackground = false;
-    
-    [self.view addSubview:_statusField];
-     
-    */
 
 }
 
